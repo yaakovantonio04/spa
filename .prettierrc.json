@@ -1,0 +1,6 @@
+{
+    "singleAttributePerLine": false,
+    "proseWrap": "always",
+    "tabWidth": 4,
+    "printWidth": 2400
+}
