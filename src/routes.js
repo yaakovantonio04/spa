@@ -6,7 +6,7 @@ notFound.innerText = 'Pagina no encontrada';
 
 const routes = [
     {
-        path: "/Home",
+        path: "/test",
         component: Home(),
         name: 'test'
     },
